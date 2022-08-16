@@ -41,4 +41,4 @@ Cool, right?
 - [x] List objects in buckets
 #### What is not (yet) currently working?
 - [ ] Move (or rename) buckets
-- [ ] Move (or rename) buckets
+- [ ] Move (or rename) objects
